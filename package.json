@@ -1,0 +1,23 @@
+{
+  "name": "qiita-contributions-api",
+  "version": "1.0.0",
+  "description": "Qiita Contributions Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "qiita"
+  ],
+  "author": "takeo-asai",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
